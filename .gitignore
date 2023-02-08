@@ -1,0 +1,7 @@
+target/
+# Auto gen by scala extension
+.bloop/
+.metals/
+
+# VSCode settings
+.vscode/
